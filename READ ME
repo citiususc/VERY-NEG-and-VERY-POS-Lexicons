@@ -1,0 +1,9 @@
+This file contains two lexicons:
+  First, VERY-NEG which consists of a list of the most negative words (MN) and words that are considered to be not most negative (NMN)
+Second, VERY-POS is composed of a list of the most positive words (MP) and of those words that are not classified as most positive (NMP)
+
+Both lexicons consist of four columns:
+W: the words
+Tag: the part of speech tag adjective (A) or adverb (R)
+Class: MN, NMN, MP, NMP
+D(x): The weight of each word (W)
