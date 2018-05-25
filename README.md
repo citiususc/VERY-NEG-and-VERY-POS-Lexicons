@@ -16,7 +16,7 @@ Both lexicons consist of four columns:
 * D(x): The weight of each word (W).
 
 
-# REFERENC
+# REFERENCE 
 ----------------------------------------------------------
 If you use VERY=NEG OR VERY-POS lexicon in your research, please cite the folowing paper, where All details are contained.
 
