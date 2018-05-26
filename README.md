@@ -1,4 +1,4 @@
-# LEXICONS
+# Lexicons
 -------------------------------------------------
 This file contains two lexicons  at two different borderline (B) values:
 B=1 and B=2. Each of our two lexicons,  VERY-NEG  and VERY-POS:
@@ -7,7 +7,7 @@ B=1 and B=2. Each of our two lexicons,  VERY-NEG  and VERY-POS:
 
 2- VERY-POS is composed of a list of the most positive words (MP) and of those words that are not classified as most positive (NMP)
 
-# FORMAT
+# Format
 ------------------------------------------------
 Both lexicons consist of four columns:
 * W: the words.
@@ -16,7 +16,7 @@ Both lexicons consist of four columns:
 * D(x): The weight of each word (W).
 
 
-# REFERENCE 
+# Reference
 ----------------------------------------------------------
 If you use VERY=NEG OR VERY-POS lexicon in your research, please cite the folowing paper, where All details are contained.
 
